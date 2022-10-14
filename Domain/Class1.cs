@@ -22,6 +22,8 @@ public class Class1
     public int sadsadsa { get; set; }
 
     public int Name7 { get; set; }
+    
+    public int sadsadsa { get; set; }
 
     public int Newpropinsecondbranch { get; set; }
 
