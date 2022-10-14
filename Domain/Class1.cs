@@ -7,4 +7,6 @@ public class Class1
     public int Name2 { get; set; }
     
     public int Name3 { get; set; }
+    
+    public int Name4 { get; set; }
 }
